@@ -42,11 +42,14 @@ TagManager:
   - name: Background
     uniqueID: 3457864417
     locked: 0
+  - name: Paddle
+    uniqueID: 2435657521
+    locked: 0
   - name: Ball
     uniqueID: 1705800763
     locked: 0
-  - name: Paddle
-    uniqueID: 2435657521
+  - name: Bricks
+    uniqueID: 184038581
     locked: 0
   - name: Default
     uniqueID: 0
